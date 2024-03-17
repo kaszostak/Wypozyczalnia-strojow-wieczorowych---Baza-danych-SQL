@@ -21,3 +21,10 @@ Baza danych zawiera także pełen zestaw informacji dotyczących asortymentu wyp
 prawidłowe wyposażenie salonu może dbać zarówno szef, jak i pracownicy salonu.
 Każda z sukien ślubnych jest unikatowa. Wyróżnia się rozmiarem, materiałem, marką, kolorem, a 
 przede wszystkim ceną za wypożyczenie. 
+
+![image](https://github.com/kaszostak/Wypo-yczalnia-stroj-w-wieczorowych---Baza-danych-SQL/assets/161257246/822c0eaa-2fe5-4163-894c-16445fa89032)
+![image](https://github.com/kaszostak/Wypo-yczalnia-stroj-w-wieczorowych---Baza-danych-SQL/assets/161257246/af3aacb5-419f-4bdf-8be1-040ffe02c960)
+
+
+![image](https://github.com/kaszostak/Wypo-yczalnia-stroj-w-wieczorowych---Baza-danych-SQL/assets/161257246/79a421bf-3848-4182-98ec-87b8f5692d4b)
+
