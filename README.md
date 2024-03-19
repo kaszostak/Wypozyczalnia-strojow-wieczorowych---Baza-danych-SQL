@@ -1,4 +1,4 @@
-# Wypo-yczalnia-stroj-w-wieczorowych---Baza-danych-SQL
+# Wypozyczalnia strojow wieczorowych ---Baza-danych-SQL
 
 Projekt bazy danych został stworzony w przeznaczeniu do użytku wewnętrznego wypożyczalni 
 strojów wieczorowych. Obsługują go pracownicy i właściciel placówki (administrator).
